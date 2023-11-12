@@ -1,4 +1,5 @@
-Bandit
+Bandit is an overthewire capture the flag game.
+In each level the password is hidden in a file and one must find it as it is the key to the next level.
 +---------------+
 |OBJECTIVES     |     
 |_______________|

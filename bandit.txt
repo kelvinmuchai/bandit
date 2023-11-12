@@ -8,7 +8,7 @@ In each level the password is hidden in a file and one must find it as it is the
 +---------------+ 
 To connect to bandit we use the below command --:
 +--------------------------------------------------------------------+
-| sshpass -p $(cat 2) ssh bandit2@bandit.labs.overthewire.org -p 2220|
+| ssh bandit2@bandit.labs.overthewire.org -p 2220|
 +--------------------------------------------------------------------+
 level1 --> To open special files in kali,we use cat ./(special file)
 level2 --> To open files with spaces in file namew we use -:
